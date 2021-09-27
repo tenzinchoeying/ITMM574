@@ -1,4 +1,4 @@
-# ITMM574
+# ITMM574 - Professor Rahul Patel
 ## Machine Learning
 Mainly using for Kanban
 
